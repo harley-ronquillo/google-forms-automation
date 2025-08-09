@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Form URL
-form_url = "https://docs.google.com/forms/d/e/1FAIpQLScCabjjNTeRDy3JWm9rbINSxR_Yk43pTElhqdpE36QSNpZdlQ/viewform"
+form_url = "https://docs.google.com/forms/"
 
 # Random data generators
 def biased_random_choice():
